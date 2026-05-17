@@ -52,3 +52,15 @@ skill-bootstrapper/
 └── references/
     └── complexity-guide.md      — 复杂度判断详细指南
 ```
+
+## 关联项目
+
+以下 skill 均通过 skill-bootstrapper 创建：
+
+- [file-tidy](https://github.com/2021291696/file-tidy) — 文件系统整理 skill（快速通道）
+- [debug-architect](https://github.com/2021291696/debug-architect) — 错误复盘 skill（Eval 通道）
+- [memory-keeper](https://github.com/2021291696/memory-keeper) — 即时记忆管理 skill（Eval 通道）
+
+也服务于：
+
+- [weaver-evolve](https://github.com/2021291696/weaver-evolve) — 全局整理 skill，其自我改进建议可通过本 skill 创建新 skill
